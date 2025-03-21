@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./out",  // Saída dos arquivos compilados
+    "rootDir": "./src", // Onde estão os arquivos .ts
+    "strict": true
+  }
+}
